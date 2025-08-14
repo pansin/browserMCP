@@ -2,6 +2,10 @@
 
 一个基于Model Context Protocol (MCP)的浏览器自动化服务器，使用Puppeteer提供强大的网页浏览、内容提取和交互功能。
 
+<a href="https://glama.ai/mcp/servers/@pansin/browserMCP">
+  <img width="380" height="200" src="https://glama.ai/mcp/servers/@pansin/browserMCP/badge" alt="Browser Server MCP server" />
+</a>
+
 ## 功能特点
 
 - **页面导航**：导航到URL、刷新、前进/后退
